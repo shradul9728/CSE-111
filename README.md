@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing the work of five talented indi
 
 ## 🚀 Live Demo
 
-**Website**: https://shradul9728.github.io/CSE-111-Shradul-Sharma-
+**Website**: https://shradul9728.github.io/CSE-111
 
 ## 🌟 Overview
 
